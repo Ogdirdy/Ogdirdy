@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=250&section=header&text=Hi%20I'm%20Deron%20Barker&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Cybersecurity%20Learner&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Future+Software+Engineer;Frontend+Developer;Business+Continuity;Cybersecurity+Explorer;Always+Building+Cool+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Future+Cybersecuirty+Analyst;Frontend+Developer;Business+Continuity+Management;Information+Technology+Security;Always+Building+Cool+Things" />
 </p>
 
 <p align="center">
