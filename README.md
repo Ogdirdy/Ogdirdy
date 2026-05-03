@@ -24,7 +24,7 @@ Hi, my name is Deron Barker. I am a highly motivated and ambitious Computer Scie
 ## ⚒️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,php" />
 </p>
 
 <p align="center">
