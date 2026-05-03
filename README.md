@@ -1,7 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=200&section=header&text=Ogdirdy&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-
-<h1 align="center">Hi 👋, I'm Deron Barker</h1>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=200&section=header&text=Hi 👋, I'm Deron Barker&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 <h3 align="center">
 Computer Science Student • Web Developer • DevOps Enthusiast • Cybersecurity Learner
 </h3>
