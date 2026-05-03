@@ -15,23 +15,8 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Deron Barker
-location: Barbados 🇧🇧
-education: Computer Science
-role: Aspiring Front-End Developer
+Hi, my name is Deron Barker. I am a highly motivated and ambitious Computer Science student with strong analytical and problem-solving skills. Adept at software development, networking, and web design. A proactive team player with excellent communication and leadership abilities.
 
-interests:
-  - IT Security
-  - Web Development
-  - DevOps & Automation
-  - Cybersecurity
-
-currently_learning:
-  - Business Continuity
-  - Python Automation
-  - Cloud Technologies
-
-mission: Build software that people enjoy using
 ```
 
 ---
@@ -39,7 +24,7 @@ mission: Build software that people enjoy using
 ## ⚒️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,docker,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,sql" />
 </p>
 
 <p align="center">
