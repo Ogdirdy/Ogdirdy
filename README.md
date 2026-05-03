@@ -15,7 +15,9 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Hi, my name is Deron Barker. I am a highly motivated and ambitious Computer Science student with strong analytical and problem-solving skills. Adept at software development, networking, and web design. A proactive team player with excellent communication and leadership abilities.
+Hi, my name is Deron Barker. I am a highly motivated and ambitious Computer Science student
+with strong analytical and problem-solving skills.
+ Adept at software development, networking, and web design. A proactive team player with excellent communication and leadership abilities.
 
 ```
 
