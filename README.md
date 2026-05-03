@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ogdirdy</h1>
+<h1 align="center">Hi 👋, I'm Deron Barker</h1>
 
 <h3 align="center">
 Computer Science Student • Web Developer • DevOps Enthusiast • Cybersecurity Learner
@@ -13,7 +13,7 @@ Computer Science Student • Web Developer • DevOps Enthusiast • Cybersecuri
 ## 🚀 About Me
 
 ```yaml
-name: Ogdirdy
+name: Deron Barker
 location: Barbados 🇧🇧
 education: Computer Science
 focus:
@@ -25,7 +25,7 @@ currently_learning:
   - CI/CD
   - Python Automation
   - Cloud Technologies
-goal: Become a world-class Software Engineer
+goal: Become a Front-End Developer
 ```
 
 ---
@@ -96,3 +96,7 @@ goal: Become a world-class Software Engineer
 </p>
 
 <h3 align="center">⚡ Code. Build. Learn. Repeat.</h3>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Ogdirdy/Ogdirdy/blob/output/github-contribution-grid-snake.svg)
