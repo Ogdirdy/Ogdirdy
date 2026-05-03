@@ -61,7 +61,7 @@ Hi, my name is Deron Barker. I am a highly motivated and ambitious Computer Scie
 
 ## 🏅 Certifications
 
-🏆 Cisco SOC  
+🏆 Cisco Security Operations Center (SOC)  
 🏆 NetDevOps Fundamentals  
 🏆 DevOps for Network Automation  
 🏆 AML Compliance Training
