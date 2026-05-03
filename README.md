@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=200&section=header&text=Ogdirdy&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+
 <h1 align="center">Hi 👋, I'm Deron Barker</h1>
 
 <h3 align="center">
@@ -96,7 +98,3 @@ goal: Become a Front-End Developer
 </p>
 
 <h3 align="center">⚡ Code. Build. Learn. Repeat.</h3>
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Ogdirdy/Ogdirdy/blob/output/github-contribution-grid-snake.svg)
