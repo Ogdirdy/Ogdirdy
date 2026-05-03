@@ -56,11 +56,6 @@ Hi, my name is Deron Barker. I am a highly motivated and ambitious Computer Scie
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ogdirdy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ogdirdy&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogdirdy&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🏅 Certifications
