@@ -1,9 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=250&section=header&text=Hi%20I%27m%20Deron%20Barker&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Cybersecurity%20Learner&descAlignY=55&descSize=18"/>
 
-<h3 align="center">
-Computer Science Student • Web Developer • DevOps Enthusiast • Cybersecurity Learner
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;Frontend+Developer;DevOps+%26+Automation+Learner;Cybersecurity+Explorer;Always+Building+Something+Cool" />
 </p>
