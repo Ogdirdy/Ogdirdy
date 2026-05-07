@@ -52,15 +52,6 @@ with strong analytical and problem-solving skills.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ogdirdy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ogdirdy&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🏅 Certifications
 
 🏆 Cisco Security Operations Center (SOC)  
